@@ -1,0 +1,6 @@
+[16-May-2015 13:04:58 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home4/srinivas/public_html/gups/excel_file/uploadxls.php on line 10
+[16-May-2015 13:59:25 America/Chicago] PHP Parse error:  syntax error, unexpected ']' in /home4/srinivas/public_html/gups/excel_file/uploadxls.php on line 66
+[17-May-2015 09:35:06 America/Chicago] PHP Warning:  mysql_query() expects parameter 2 to be resource, null given in /home4/srinivas/public_html/gups/excel_file/uploadxls.php on line 128
+[17-May-2015 09:35:06 America/Chicago] PHP Warning:  mysqli_affected_rows() expects exactly 1 parameter, 0 given in /home4/srinivas/public_html/gups/excel_file/uploadxls.php on line 129
+[17-May-2015 10:11:51 America/Chicago] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, boolean given in /home4/srinivas/public_html/gups/excel_file/uploadxls.php on line 84
+[28-May-2015 11:00:03 America/Chicago] PHP Parse error:  syntax error, unexpected '$res' (T_VARIABLE), expecting ',' or ';' in /home4/srinivas/public_html/gupseva.in/gups/excel_file/uploadxls.php on line 138
